@@ -2,7 +2,7 @@ package com.tom;
 
 import java.util.Scanner;
 
-public class TasterNumber {
+public class TesterNumber {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
