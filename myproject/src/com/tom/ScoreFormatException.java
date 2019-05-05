@@ -4,7 +4,7 @@ public class ScoreFormatException extends Exception{
 
 	@Override
 	public String getMessage() {
-		return "Score Format indilve";
+		return "Score Format invalid, cannot convert to int";
 	}
 	
 }
