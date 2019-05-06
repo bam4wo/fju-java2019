@@ -1,4 +1,4 @@
-package com.tom;
+package com.score;
 
 public class ScoreFormatException extends Exception{
 

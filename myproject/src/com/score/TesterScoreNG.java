@@ -1,4 +1,4 @@
-package com.tom;
+package com.score;
 
 import java.util.Scanner;
 

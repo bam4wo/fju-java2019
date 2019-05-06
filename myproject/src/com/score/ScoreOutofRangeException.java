@@ -1,10 +1,10 @@
-package com.tom;
+package com.score;
 
 public class ScoreOutofRangeException extends Exception{
 
 	@Override
 	public String getMessage() {
-		return super.getMessage();
+		return "over range";
 	}
 	
 }
