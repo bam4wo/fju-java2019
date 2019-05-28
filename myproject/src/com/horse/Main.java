@@ -6,9 +6,9 @@ public class Main {
 		Horse h = new Horse();
 		h.start();
 		
-		HorseRunnable h1 = new HorseRunnable();
+		/*HorseRunnable h1 = new HorseRunnable();
 		Thread thread = new Thread(h1);
-		thread.start();
+		thread.start();*/
 		
 		System.out.println("main stop");
 
