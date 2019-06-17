@@ -15,6 +15,8 @@ public class Pizza {
 			System.out.print(b.getMessage());
 		}catch(FormatException a) {
 			System.out.print(a.getMessage());
+		}catch(LessExceotion e) {
+			System.out.print(e.getMessage());
 		}
 
 	}
